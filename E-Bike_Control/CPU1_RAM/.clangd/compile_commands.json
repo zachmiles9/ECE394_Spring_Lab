@@ -1,0 +1,72 @@
+[
+   {
+      "directory" : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_LAUNCHXL_F28P55X -xc",
+      "file"      : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/adc_ex1_soc_epwm.c"
+   },
+   {
+      "directory" : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_LAUNCHXL_F28P55X -xc",
+      "file"      : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/f28p55x_adc.c"
+   },
+   {
+      "directory" : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_LAUNCHXL_F28P55X",
+      "file"      : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/f28p55x_codestartbranch.asm"
+   },
+   {
+      "directory" : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_LAUNCHXL_F28P55X -xc",
+      "file"      : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/f28p55x_cputimers.c"
+   },
+   {
+      "directory" : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_LAUNCHXL_F28P55X -xc",
+      "file"      : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/f28p55x_defaultisr.c"
+   },
+   {
+      "directory" : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_LAUNCHXL_F28P55X -xc",
+      "file"      : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/f28p55x_dma.c"
+   },
+   {
+      "directory" : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_LAUNCHXL_F28P55X -xc",
+      "file"      : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/f28p55x_epwm.c"
+   },
+   {
+      "directory" : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_LAUNCHXL_F28P55X -xc",
+      "file"      : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/f28p55x_globalvariabledefs.c"
+   },
+   {
+      "directory" : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_LAUNCHXL_F28P55X -xc",
+      "file"      : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/f28p55x_gpio.c"
+   },
+   {
+      "directory" : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_LAUNCHXL_F28P55X -xc",
+      "file"      : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/f28p55x_piectrl.c"
+   },
+   {
+      "directory" : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_LAUNCHXL_F28P55X -xc",
+      "file"      : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/f28p55x_pievect.c"
+   },
+   {
+      "directory" : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_LAUNCHXL_F28P55X -xc",
+      "file"      : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/f28p55x_sysctrl.c"
+   },
+   {
+      "directory" : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_LAUNCHXL_F28P55X -xc",
+      "file"      : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/f28p55x_tempsensorconv.c"
+   },
+   {
+      "directory" : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_LAUNCHXL_F28P55X",
+      "file"      : "C:/Users/zachm/OneDrive/Documents/_Zach Miles/_UT Austin/_Sp26/ECE 394 - ctrl of PE/ECE394_Spring_Lab/E-Bike_Control/f28p55x_usdelay.asm"
+   }
+]
