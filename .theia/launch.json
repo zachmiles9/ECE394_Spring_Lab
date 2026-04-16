@@ -1,16 +1,23 @@
 {
-  // Use IntelliSense to learn about possible attributes.
-  // Hover to view descriptions of existing attributes.
-  "version": "0.2.0",
-  "configurations": [
-    {
-      "name": "adc_ex1_soc_epwm",
-      "type": "ccs-debug",
-      "request": "launch",
-      "projectInfo": {
-        "name": "adc_ex1_soc_epwm",
-        "resourceId": "/adc_ex1_soc_epwm"
-      }
-    }
-  ]
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "adc_ex1_soc_epwm",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "adc_ex1_soc_epwm",
+                "resourceId": "/adc_ex1_soc_epwm"
+            }
+        },
+        {
+            "name": "starter_code_v2_pwm_adc_gd",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "starter_code_v2_pwm_adc_gd",
+                "resourceId": "/starter_code_v2_pwm_adc_gd"
+            }
+        }
+    ]
 }
