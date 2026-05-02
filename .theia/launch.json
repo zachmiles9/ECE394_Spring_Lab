@@ -18,6 +18,24 @@
                 "name": "starter_code_v2_pwm_adc_gd",
                 "resourceId": "/starter_code_v2_pwm_adc_gd"
             }
+        },
+        {
+            "name": "starter_code_v3_hall_currentcontrol_sinepwm",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "starter_code_v3_hall_currentcontrol_sinepwm",
+                "resourceId": "/starter_code_v3_hall_currentcontrol_sinepwm"
+            }
+        },
+        {
+            "name": "starter_code_v4_motorcontrol",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "starter_code_v4_motorcontrol",
+                "resourceId": "/starter_code_v4_motorcontrol"
+            }
         }
     ]
 }

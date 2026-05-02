@@ -1,0 +1,82 @@
+[
+   {
+      "directory" : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -xc",
+      "file"      : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/f28p55x_adc.c"
+   },
+   {
+      "directory" : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG",
+      "file"      : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/f28p55x_codestartbranch.asm"
+   },
+   {
+      "directory" : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -xc",
+      "file"      : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/f28p55x_cputimers.c"
+   },
+   {
+      "directory" : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -xc",
+      "file"      : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/f28p55x_defaultisr.c"
+   },
+   {
+      "directory" : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -xc",
+      "file"      : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/f28p55x_dma.c"
+   },
+   {
+      "directory" : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -xc",
+      "file"      : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/f28p55x_epwm.c"
+   },
+   {
+      "directory" : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -xc",
+      "file"      : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/f28p55x_globalvariabledefs.c"
+   },
+   {
+      "directory" : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -xc",
+      "file"      : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/f28p55x_gpio.c"
+   },
+   {
+      "directory" : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -xc",
+      "file"      : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/f28p55x_piectrl.c"
+   },
+   {
+      "directory" : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -xc",
+      "file"      : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/f28p55x_pievect.c"
+   },
+   {
+      "directory" : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -xc",
+      "file"      : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/f28p55x_sysctrl.c"
+   },
+   {
+      "directory" : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -xc",
+      "file"      : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/f28p55x_tempsensorconv.c"
+   },
+   {
+      "directory" : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG",
+      "file"      : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/f28p55x_usdelay.asm"
+   },
+   {
+      "directory" : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -xc",
+      "file"      : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/hall_estimator.c"
+   },
+   {
+      "directory" : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -xc",
+      "file"      : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/main.c"
+   },
+   {
+      "directory" : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/common/include/\" -I\"C:/ti/C2000Ware_6_00_00_00/device_support/f28p55x/headers/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -xc",
+      "file"      : "C:/Users/roena/Desktop/UT/26S/ECE394J/LAb/ECE394_Spring_Lab/starter_code_v3_hall_currentcontrol_sinepwm/pi_controller.c"
+   }
+]
