@@ -76,13 +76,13 @@
 #define PWM7_INIT_DUTY 0.50             // range: [0, 1]
 // Inverter Phase A PWM
 #define PWM8_FREQ 15e3                  // Hz
-#define PWM8_INIT_DUTY 0.20             // range: [0, 1]
+#define PWM8_INIT_DUTY 0.50             // range: [0, 1]
 // Inverter Phase B PWM
 #define PWM1_FREQ 15e3                  // Hz
-#define PWM1_INIT_DUTY 0.30             // range: [0, 1]
+#define PWM1_INIT_DUTY 0.50             // range: [0, 1]
 // Inverter Phase C PWM
 #define PWM3_FREQ 15e3                  // Hz
-#define PWM3_INIT_DUTY 0.40             // range: [0, 1]
+#define PWM3_INIT_DUTY 0.50             // range: [0, 1]
 // Dead Time
 #define DEAD_TIME_RED 10                // rising edge delay (clock cycles)
 #define DEAD_TIME_FED 10                // falling edge delay (clock cycles)
@@ -319,6 +319,9 @@ void initEPWM(void)
     EPwm8Regs.EPWMSYNCOUTEN.all = 0x0;       // Clear any default routing
     EPwm8Regs.EPWMSYNCOUTEN.bit.ZEROEN = 1;  // Send Sync pulse when counter = 0
 
+    // Need TBPRD from phase A to introduce phase shift for phase B & C
+    // "EPwm8Regs.TBPRD"
+
     // ==========================================================
     // Inverter Phase B PWM Configuration
     // ==========================================================
@@ -343,10 +346,12 @@ void initEPWM(void)
     EPwm1Regs.DBCTL.bit.OUTSWAP = 0b11; // IMPORTANT: flips PWMA and PWMB
     // Sync to PWM8
     EPwm1Regs.TBCTL.bit.PHSEN = TB_ENABLE;      // Enable phase loading
-    EPwm1Regs.TBPHS.bit.TBPHS = 0;              // Phase offset = 0 for perfect alignment
-    EPwm1Regs.TBCTL.bit.PHSDIR = TB_UP;         // Count up after sync
+    EPwm1Regs.TBPHS.bit.TBPHS = 2.0*EPwm8Regs.TBPRD*1.0/3.0; // Phase offset = 120 deg for B-phase offset
+    EPwm1Regs.TBCTL.bit.PHSDIR = TB_DOWN;         // Count up after sync
     EPwm1Regs.EPWMSYNCINSEL.bit.SEL = 8;        // Sync to PWM8
     EPwm1Regs.EPWMSYNCOUTEN.all = 0x0;          // Clear defaults
+
+    // implement TBPHS
 
     // ==========================================================
     // Inverter Phase C PWM Configuration
@@ -371,7 +376,7 @@ void initEPWM(void)
     EPwm3Regs.DBFED.bit.DBFED = DEAD_TIME_FED;
     // Sync to PWM8
     EPwm3Regs.TBCTL.bit.PHSEN = TB_ENABLE;      // Enable phase loading
-    EPwm3Regs.TBPHS.bit.TBPHS = 0;              // Phase offset = 0 for perfect alignment
+    EPwm3Regs.TBPHS.bit.TBPHS = 2.0*EPwm8Regs.TBPRD*1.0/3.0; // Phase offset = 240 deg for C-phase offset
     EPwm3Regs.TBCTL.bit.PHSDIR = TB_UP;         // Count up after sync
     EPwm3Regs.EPWMSYNCINSEL.bit.SEL = 8;        // Sync to PWM8
     EPwm3Regs.EPWMSYNCOUTEN.all = 0x0;          // Clear defaults
